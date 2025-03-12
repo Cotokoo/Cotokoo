@@ -3,7 +3,6 @@
 
 I’m currently working on [@StreenGames](https://github.com/StreenGames)
 
-### Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api?username=Cotokoo&count_private=true&show_icons=true&theme=dark" />
   
